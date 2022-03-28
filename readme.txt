@@ -1,0 +1,1 @@
+to use the open source code, move the library folder into final project fighting directory
