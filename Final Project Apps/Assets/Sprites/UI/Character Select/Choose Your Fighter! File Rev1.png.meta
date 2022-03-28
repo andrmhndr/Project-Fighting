@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 47b068985aeb0ac4f9ac05a30c479fd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6000350557016267083
+    second: character select
+  - first:
+      213: -5222358067913781376
+    second: Choose Your Fighter! File Rev1_3
+  - first:
+      213: 4872372913533889162
+    second: Choose Your Fighter! File Rev1_4
+  - first:
+      213: 5291232493834692212
+    second: info
+  - first:
+      213: 2095867218825578647
+    second: Choose Your Fighter! File Rev1_6
+  - first:
+      213: -5924644838853332162
+    second: theoName
+  - first:
+      213: -2478224743518234929
+    second: Choose Your Fighter! File Rev1_8
+  - first:
+      213: 7716216011760290723
+    second: Choose Your Fighter! File Rev1_9
+  - first:
+      213: 1890715868244966976
+    second: Choose Your Fighter! File Rev1_10
+  - first:
+      213: 6772707422716127631
+    second: Choose Your Fighter! File Rev1_11
+  - first:
+      213: 5736449854285957403
+    second: Choose Your Fighter! File Rev1_12
+  - first:
+      213: -9079043344508285974
+    second: Choose Your Fighter! File Rev1_14
+  - first:
+      213: 5069556512614899146
+    second: Choose Your Fighter! File Rev1_15
+  - first:
+      213: 6711015770040784314
+    second: Choose Your Fighter! File Rev1_16
+  - first:
+      213: 139454958370023794
+    second: Choose Your Fighter! File Rev1_17
+  - first:
+      213: 8994249702811015119
+    second: Choose Your Fighter! File Rev1_18
+  - first:
+      213: -4848773326557774794
+    second: miftahName
+  - first:
+      213: -2803581692021710467
+    second: theoInfo
+  - first:
+      213: -8682900395315844837
+    second: Choose Your Fighter! File Rev1_21
+  - first:
+      213: -5419759276972122042
+    second: Choose Your Fighter! File Rev1_22
+  - first:
+      213: -8275813736774504904
+    second: Choose Your Fighter! File Rev1_23
+  - first:
+      213: 5338738495652612447
+    second: Choose Your Fighter! File Rev1_24
+  - first:
+      213: -2407613064289733876
+    second: Choose Your Fighter! File Rev1_25
+  - first:
+      213: -5994999915643755988
+    second: boxcharacter
+  - first:
+      213: -2242499604050144691
+    second: budiandraLogo
+  - first:
+      213: 1278427216068376672
+    second: miftahLogo
+  - first:
+      213: -6851275465442905123
+    second: theoLogo
+  - first:
+      213: 7441016645856775845
+    second: randomLogo
+  - first:
+      213: -4779555712362910980
+    second: Choose Your Fighter! File Rev1_32
+  - first:
+      213: 5115099849329304993
+    second: Choose Your Fighter! File Rev1_33
+  - first:
+      213: -1886882007385658477
+    second: Choose Your Fighter! File Rev1_34
+  - first:
+      213: 8864559348961747164
+    second: Choose Your Fighter! File Rev1_35
+  - first:
+      213: 2932897196835787789
+    second: playerSelection
+  - first:
+      213: 5382720997600526847
+    second: p1
+  - first:
+      213: 3245847174431885528
+    second: p2
+  - first:
+      213: -8217334409654196286
+    second: Choose Your Fighter! File Rev1_42
+  - first:
+      213: -8999547854162874260
+    second: Choose Your Fighter! File Rev1_43
+  - first:
+      213: -5683500739973948938
+    second: Choose Your Fighter! File Rev1_44
+  - first:
+      213: -5939345279372931968
+    second: Choose Your Fighter! File Rev1_45
+  - first:
+      213: 8637798351745522588
+    second: Choose Your Fighter! File Rev1_46
+  - first:
+      213: -3576998583242309663
+    second: Choose Your Fighter! File Rev1_47
+  - first:
+      213: -8238315749103956861
+    second: choose your fighter
+  - first:
+      213: 2937663296673123510
+    second: Choose Your Fighter! File Rev1_58
+  - first:
+      213: -246588614640629442
+    second: miftahInfo
+  - first:
+      213: -1002521745968373937
+    second: Choose Your Fighter! File Rev1_60
+  - first:
+      213: -8760528971499744493
+    second: Choose Your Fighter! File Rev1_61
+  - first:
+      213: -7587791108562364723
+    second: budiandraName
+  - first:
+      213: 5912722722941756123
+    second: Choose Your Fighter! File Rev1_63
+  - first:
+      213: -2526774156944978362
+    second: Choose Your Fighter! File Rev1_64
+  - first:
+      213: 670559083598700263
+    second: Choose Your Fighter! File Rev1_65
+  - first:
+      213: 2383140313888802104
+    second: Choose Your Fighter! File Rev1_66
+  - first:
+      213: 7988009431329678880
+    second: Choose Your Fighter! File Rev1_67
+  - first:
+      213: -4360086736660947684
+    second: Choose Your Fighter! File Rev1_68
+  - first:
+      213: 1754929507711061923
+    second: nameBar
+  - first:
+      213: 2412814300169792657
+    second: Choose Your Fighter! File Rev1_70
+  - first:
+      213: -365605360935882402
+    second: Choose Your Fighter! File Rev1_71
+  - first:
+      213: 840219730478896726
+    second: Choose Your Fighter! File Rev1_72
+  - first:
+      213: -5380518470372527039
+    second: Choose Your Fighter! File Rev1_73
+  - first:
+      213: 3645334188411016779
+    second: BudiandraInfo
+  - first:
+      213: 4513287773224693118
+    second: Choose Your Fighter! File Rev1_75
+  - first:
+      213: -2473816302569630718
+    second: Choose Your Fighter! File Rev1_76
+  - first:
+      213: 4688378462479893829
+    second: Choose Your Fighter! File Rev1_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character select
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1025
+        width: 390
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4995c65a07854350800000000000000
+      internalID: 6000350557016267083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose Your Fighter! File Rev1_4
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 963
+        width: 738
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a2c6499552e9340800000000000000
+      internalID: 4872372913533889162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: info
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 968
+        width: 83
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47665034beb3e6940800000000000000
+      internalID: 5291232493834692212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose Your Fighter! File Rev1_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 955
+        width: 696
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7980c729124061d10800000000000000
+      internalID: 2095867218825578647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theoName
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 906
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33bbcfb8ee67cda0800000000000000
+      internalID: -5924644838853332162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose Your Fighter! File Rev1_12
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 929
+        width: 161
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b194e8cdfb6fb9f40800000000000000
+      internalID: 5736449854285957403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose Your Fighter! File Rev1_18
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 832
+        width: 738
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7963d737ef1dc70800000000000000
+      internalID: 8994249702811015119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miftahName
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 620
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c72227952b5bcb0800000000000000
+      internalID: -4848773326557774794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theoInfo
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 732
+        width: 425
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71e14c1e4da719d0800000000000000
+      internalID: -2803581692021710467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxcharacter
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 740
+        width: 230
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22ae8fe65b7dcca0800000000000000
+      internalID: -5994999915643755988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: budiandraLogo
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 674
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4213abcd7a01e0e0800000000000000
+      internalID: -2242499604050144691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miftahLogo
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 676
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06872f497c2edb110800000000000000
+      internalID: 1278427216068376672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theoLogo
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 674
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd33de783416be0a0800000000000000
+      internalID: -6851275465442905123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: randomLogo
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 674
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aecf08173dc34760800000000000000
+      internalID: 7441016645856775845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSelection
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 599
+        width: 260
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d22c167eb3b820800000000000000
+      internalID: 2932897196835787789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p1
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 595
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1040b7a3443ba40800000000000000
+      internalID: 5382720997600526847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p2
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 592
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8c733dec09b0d20800000000000000
+      internalID: 3245847174431885528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: choose your fighter
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 477
+        width: 618
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c0723897f9bad80800000000000000
+      internalID: -8238315749103956861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose Your Fighter! File Rev1_58
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 488
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc87e3343da4c820800000000000000
+      internalID: 2937663296673123510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miftahInfo
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 448
+        width: 425
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3980b226f0f39cf0800000000000000
+      internalID: -246588614640629442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: budiandraName
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 312
+        width: 137
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6d5484030c2b690800000000000000
+      internalID: -7587791108562364723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nameBar
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 285
+        width: 921
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af08f8d613ca5810800000000000000
+      internalID: 1754929507711061923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudiandraInfo
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 138
+        width: 425
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4653db6124d69230800000000000000
+      internalID: 3645334188411016779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1122 @@
+fileFormatVersion: 2
+guid: 023f895449780194592f565fd1503772
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -253628765422376065
+    second: Idle_1
+  - first:
+      213: 3845675998445409207
+    second: Idle_2
+  - first:
+      213: 834795462226696601
+    second: Idle_3
+  - first:
+      213: 4216704136353267178
+    second: Idle_4
+  - first:
+      213: 3924378509387481199
+    second: Idle_5
+  - first:
+      213: 1912501326084761390
+    second: Jump Heavy Attack
+  - first:
+      213: -4823151590257859485
+    second: Crouch Cover
+  - first:
+      213: -8043214227107043828
+    second: Cover
+  - first:
+      213: 1909274179947135405
+    second: Light Attack_1
+  - first:
+      213: -1013966499567476677
+    second: Light Attack_2
+  - first:
+      213: 6894546238736841173
+    second: Laode Hamd 8bit_10
+  - first:
+      213: 7621967693211582802
+    second: Light Attack_3
+  - first:
+      213: 7448327664160919855
+    second: Light Attack_4
+  - first:
+      213: -4037746101357783101
+    second: Light Attack_5
+  - first:
+      213: 4466863017648763188
+    second: Laode Hamd 8bit_14
+  - first:
+      213: 8189841070561870297
+    second: Laode Hamd 8bit_15
+  - first:
+      213: -5280665918871047328
+    second: Laode Hamd 8bit_16
+  - first:
+      213: 8537853993818862260
+    second: Laode Hamd 8bit_17
+  - first:
+      213: -3351157092083664667
+    second: Laode Hamd 8bit_18
+  - first:
+      213: -6880840446683059526
+    second: Jump_1
+  - first:
+      213: -7301626797924696258
+    second: Jump_2
+  - first:
+      213: 6018435873026380904
+    second: Jump_3
+  - first:
+      213: -8108859033913200930
+    second: Laode Hamd 8bit_22
+  - first:
+      213: 1755558522452845595
+    second: Jump_4
+  - first:
+      213: -6534170611348366046
+    second: Jump_5
+  - first:
+      213: 1353160672087059447
+    second: Crouch Light Attack_1
+  - first:
+      213: 4563683604885431595
+    second: Crouch Light Attack_2
+  - first:
+      213: 1213157201322533539
+    second: Crouch Light Attack_3
+  - first:
+      213: 4429450043974951356
+    second: Crouch Light Attack_4
+  - first:
+      213: 4285408662069456326
+    second: Crouch Light Attack_5
+  - first:
+      213: 2765117985815957401
+    second: Laode Hamd 8bit_30
+  - first:
+      213: 6255085690028171397
+    second: Laode Hamd 8bit_31
+  - first:
+      213: -8307666066640986283
+    second: Laode Hamd 8bit_32
+  - first:
+      213: 377291562614578242
+    second: Laode Hamd 8bit_33
+  - first:
+      213: -8557118627580520578
+    second: Laode Hamd 8bit_34
+  - first:
+      213: 7104507981857586306
+    second: Laode Hamd 8bit_35
+  - first:
+      213: 797337556630125206
+    second: Laode Hamd 8bit_36
+  - first:
+      213: -8481727533730367902
+    second: Laode Hamd 8bit_37
+  - first:
+      213: -7999672815912392976
+    second: Laode Hamd 8bit_38
+  - first:
+      213: 7807540552554170672
+    second: Laode Hamd 8bit_39
+  - first:
+      213: -7657796336205781164
+    second: Laode Hamd 8bit_40
+  - first:
+      213: 4108714132050980746
+    second: Crouch
+  - first:
+      213: 1946415230044914780
+    second: Laode Hamd 8bit_42
+  - first:
+      213: 3200698543535640853
+    second: Walk_1
+  - first:
+      213: -2506220902540707544
+    second: Walk_2
+  - first:
+      213: 8980767416309787758
+    second: Walk_3
+  - first:
+      213: 858648130629541485
+    second: Laode Hamd 8bit_46
+  - first:
+      213: 1746129907429176186
+    second: Laode Hamd 8bit_47
+  - first:
+      213: -4166821441508360172
+    second: Laode Hamd 8bit_48
+  - first:
+      213: 3388228748017620578
+    second: Dash_R
+  - first:
+      213: -5784253296828844332
+    second: Dash_L
+  - first:
+      213: 8657703202688511027
+    second: Crouch Heavy Attack_4
+  - first:
+      213: 8254769787971216982
+    second: Crouch Heavy Attack_1
+  - first:
+      213: 4562889425754684121
+    second: Crouch Heavy Attack_2
+  - first:
+      213: -4153108996991292273
+    second: Crouch Heavy Attack_3
+  - first:
+      213: 8176333075893355892
+    second: Crouch Heavy Attack_4
+  - first:
+      213: -5446582586179114176
+    second: Laode Hamd 8bit_56
+  - first:
+      213: -1278731405606518432
+    second: Laode Hamd 8bit_57
+  - first:
+      213: -1381816990763646558
+    second: Heavy Attack_1
+  - first:
+      213: -1687961186668485175
+    second: Heavy Attack_2
+  - first:
+      213: -5319152512650114907
+    second: Heavy Attack_3
+  - first:
+      213: 4414938450761499757
+    second: Laode Hamd 8bit_61
+  - first:
+      213: 2363066359428325505
+    second: Heavy Attack_4
+  - first:
+      213: -6214471472132911986
+    second: Heavy Attack_5
+  - first:
+      213: 7939645859072314857
+    second: Laode Hamd 8bit_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4213
+        width: 289
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bad2c4bfdea7cf0800000000000000
+      internalID: -253628765422376065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 4207
+        width: 298
+        height: 491
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3959002f59e5530800000000000000
+      internalID: 3845675998445409207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 4207
+        width: 299
+        height: 476
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999512acc0ac59b00800000000000000
+      internalID: 834795462226696601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 4207
+        width: 289
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedb14a221eb48a30800000000000000
+      internalID: 4216704136353267178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 4207
+        width: 300
+        height: 547
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c7384671367630800000000000000
+      internalID: 3924378509387481199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump Heavy Attack
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 4184
+        width: 350
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27eebdb2d19a8a10800000000000000
+      internalID: 1912501326084761390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Cover
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3576
+        width: 311
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364e1dcce29b01db0800000000000000
+      internalID: -4823151590257859485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3566
+        width: 323
+        height: 468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06aae47643c06090800000000000000
+      internalID: -8043214227107043828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Attack_1
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 3561
+        width: 332
+        height: 529
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1039a30ca1f7a10800000000000000
+      internalID: 1909274179947135405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Attack_2
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 3559
+        width: 275
+        height: 531
+      alignment: 9
+      pivot: {x: 0.45932528, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30622347daade1f0800000000000000
+      internalID: -1013966499567476677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Attack_3
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 3559
+        width: 315
+        height: 531
+      alignment: 9
+      pivot: {x: 0.3993885, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251416beb3ba6c960800000000000000
+      internalID: 7621967693211582802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Attack_4
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 3559
+        width: 266
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d6013c86cd5760800000000000000
+      internalID: 7448327664160919855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Attack_5
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 3559
+        width: 294
+        height: 507
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7d95f405b07f7c0800000000000000
+      internalID: -4037746101357783101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2927
+        width: 225
+        height: 548
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abae05be1185280a0800000000000000
+      internalID: -6880840446683059526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2927
+        width: 253
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb93bec196baa90800000000000000
+      internalID: -7301626797924696258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_3
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2935
+        width: 276
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864943b1a87c58350800000000000000
+      internalID: 6018435873026380904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_4
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2935
+        width: 245
+        height: 477
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b142631cc2ffc5810800000000000000
+      internalID: 1755558522452845595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_5
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2931
+        width: 242
+        height: 495
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d98c0d276f155a0800000000000000
+      internalID: -6534170611348366046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Light Attack_1
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2921
+        width: 289
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb27cf367467c210800000000000000
+      internalID: 1353160672087059447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Light Attack_2
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2912
+        width: 292
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2568782f06755f30800000000000000
+      internalID: 4563683604885431595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Light Attack_3
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2911
+        width: 309
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a269890c0006d010800000000000000
+      internalID: 1213157201322533539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Light Attack_4
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2921
+        width: 292
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb12775c851987d30800000000000000
+      internalID: 4429450043974951356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Light Attack_5
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 2926
+        width: 313
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd280c1974d87b30800000000000000
+      internalID: 4285408662069456326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2271
+        width: 228
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fa684fbb5150930800000000000000
+      internalID: 4108714132050980746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_1
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2262
+        width: 242
+        height: 556
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5115d880e5a2b6c20800000000000000
+      internalID: 3200698543535640853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_2
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 2257
+        width: 240
+        height: 577
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f66f1e5d183dd0800000000000000
+      internalID: -2506220902540707544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_3
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 2262
+        width: 252
+        height: 556
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c2c8b026812ac70800000000000000
+      internalID: 8980767416309787758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_R
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1639
+        width: 343
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2665b5f3818650f20800000000000000
+      internalID: 3388228748017620578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_L
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1623
+        width: 355
+        height: 498
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d672a7d5443abfa0800000000000000
+      internalID: -5784253296828844332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Heavy Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1616
+        width: 219
+        height: 420
+      alignment: 9
+      pivot: {x: 0.69919425, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca20f3137562870800000000000000
+      internalID: 8657703202688511027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Heavy Attack_1
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1592
+        width: 316
+        height: 370
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656a6a2f265de8270800000000000000
+      internalID: 8254769787971216982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Heavy Attack_2
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 1597
+        width: 312
+        height: 363
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da7e7be1c3a25f30800000000000000
+      internalID: 4562889425754684121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Heavy Attack_3
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 1598
+        width: 313
+        height: 426
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cead01f513d56c0800000000000000
+      internalID: -4153108996991292273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch Heavy Attack_4
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 1592
+        width: 334
+        height: 482
+      alignment: 9
+      pivot: {x: 0.41225338, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47586e9cc9b287170800000000000000
+      internalID: 8176333075893355892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Attack_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 984
+        width: 326
+        height: 538
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a10fe0a4ccc2dce0800000000000000
+      internalID: -1381816990763646558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Attack_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 983
+        width: 285
+        height: 521
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c56af17e382398e0800000000000000
+      internalID: -1687961186668485175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Attack_3
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 984
+        width: 304
+        height: 515
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a80d59c8f29e26b0800000000000000
+      internalID: -5319152512650114907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 975
+        width: 308
+        height: 571
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180a666755c4bc020800000000000000
+      internalID: 2363066359428325505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 980
+        width: 306
+        height: 571
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c08bc2f13c1c9a0800000000000000
+      internalID: -6214471472132911986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

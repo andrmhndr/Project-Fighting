@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 4c16305c63d49d84889498d85faee94f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8703489251280922155
+    second: Miftah ra 8bit idle_1
+  - first:
+      213: 2452015088621097496
+    second: Miftah ra 8bit idle_2
+  - first:
+      213: -4257227462504285510
+    second: Miftah ra 8bit idle_4
+  - first:
+      213: -1496363986285303121
+    second: Miftah ra 8bit idle_4
+  - first:
+      213: 6724633970269437434
+    second: Miftah ra 8bit_4
+  - first:
+      213: -1145991947256633905
+    second: Miftah ra 8bit idle_5
+  - first:
+      213: 7741326968480794899
+    second: Miftah ra 8bit jump light
+  - first:
+      213: -1544083079939034988
+    second: Miftah ra 8bit jump heavy
+  - first:
+      213: 5510080239169913626
+    second: Miftah ra 8bit  crouch cover
+  - first:
+      213: 1565419605846018130
+    second: Miftah ra 8bit cover
+  - first:
+      213: 8556130304989950802
+    second: Miftah ra 8bit light arttack_1
+  - first:
+      213: 7472054233465094188
+    second: Miftah ra 8bit light arttack_2
+  - first:
+      213: 8227921979499914123
+    second: Miftah ra 8bit_12
+  - first:
+      213: 8309426824589536167
+    second: Miftah ra 8bit light arttack_3
+  - first:
+      213: -4001843584285899449
+    second: Miftah ra 8bit light arttack_4
+  - first:
+      213: 553159408126655681
+    second: Miftah ra 8bit light arttack_5
+  - first:
+      213: 9129090941447552198
+    second: Miftah ra 8bit_16
+  - first:
+      213: 3665825830952280849
+    second: Miftah ra 8bit crouch_1
+  - first:
+      213: -8499936086327861272
+    second: Miftah ra 8bit crouch_2
+  - first:
+      213: -7832841907707981793
+    second: Miftah ra 8bit crouch_3
+  - first:
+      213: -7933919853560083699
+    second: Miftah ra 8bit_20
+  - first:
+      213: 4066801282974724966
+    second: Miftah ra 8bit crouch_4
+  - first:
+      213: -861151611218014309
+    second: Miftah ra 8bit crouch_5
+  - first:
+      213: -3735666102845055604
+    second: Miftah ra 8bit crouch light attack_1
+  - first:
+      213: -1779921061435672278
+    second: Miftah ra 8bit crouch light attack_2
+  - first:
+      213: 4033651013718861055
+    second: Miftah ra 8bit crouch light attack_3
+  - first:
+      213: 8332982330581755290
+    second: Miftah ra 8bit crouch light attack_4
+  - first:
+      213: 7748667973756779649
+    second: Miftah ra 8bit crouch light attack_5
+  - first:
+      213: -7344611589918629109
+    second: Miftah ra 8bit_28
+  - first:
+      213: 7615493622396341087
+    second: Miftah ra 8bit_29
+  - first:
+      213: -1716585555662262218
+    second: Miftah ra 8bit jump
+  - first:
+      213: -2679389448266379794
+    second: Miftah ra 8bit crouch heavy attack_1
+  - first:
+      213: 4266775978324654784
+    second: Miftah ra 8bit crouch heavy attack_2
+  - first:
+      213: -8028451615861507419
+    second: Miftah ra 8bit crouch heavy attack_3
+  - first:
+      213: 8931859565385257189
+    second: Miftah ra 8bit crouch heavy attack_4
+  - first:
+      213: 3761670117966603330
+    second: Miftah ra 8bit crouch heavy attack_5
+  - first:
+      213: -1732282135294489735
+    second: Miftah ra 8bit dashR
+  - first:
+      213: -8488904960673163116
+    second: Miftah ra 8bit dashL
+  - first:
+      213: -8156238419523657156
+    second: Miftah ra 8bit_38
+  - first:
+      213: -1302129789759664777
+    second: Miftah ra 8bit walk_1
+  - first:
+      213: -8908728702774422637
+    second: Miftah ra 8bit walk_2
+  - first:
+      213: -4808307800530381680
+    second: Miftah ra 8bit_41
+  - first:
+      213: 1135183592703580128
+    second: Miftah ra 8bit walk_3
+  - first:
+      213: 3525850352203071973
+    second: Miftah ra 8bit walk_4
+  - first:
+      213: -1918637155914483619
+    second: Miftah ra 8bit walk_5
+  - first:
+      213: 1020698122153463135
+    second: Miftah ra 8bit_45
+  - first:
+      213: 2364282911032997494
+    second: Miftah ra 8bit_46
+  - first:
+      213: 5741157667690191860
+    second: Miftah ra 8bit_47
+  - first:
+      213: 3003183485843260462
+    second: Miftah ra 8bit_48
+  - first:
+      213: 521687868968817991
+    second: Miftah ra 8bit heavy attack_1
+  - first:
+      213: -1441326616810028255
+    second: Miftah ra 8bit heavy attack_2
+  - first:
+      213: 403477365762071333
+    second: Miftah ra 8bit heavy attack_3
+  - first:
+      213: 4072027933847793205
+    second: Miftah ra 8bit heavy attack_4
+  - first:
+      213: 7979285248327527118
+    second: Miftah ra 8bit heavy attack_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miftah ra 8bit idle_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4221
+        width: 242
+        height: 519
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a7096c5109c870800000000000000
+      internalID: 8703489251280922155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit idle_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 4219
+        width: 254
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81298255bbe470220800000000000000
+      internalID: 2452015088621097496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit idle_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 4221
+        width: 271
+        height: 533
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf469bd2a4be4c0800000000000000
+      internalID: -4257227462504285510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit idle_4
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 4219
+        width: 220
+        height: 544
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faae6cee1e8db3be0800000000000000
+      internalID: -1496363986285303121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit idle_5
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 4219
+        width: 219
+        height: 535
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc56f4c456e9810f0800000000000000
+      internalID: -1145991947256633905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit jump light
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 4216
+        width: 341
+        height: 402
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319037eccd7be6b60800000000000000
+      internalID: 7741326968480794899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit jump heavy
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 4230
+        width: 346
+        height: 406
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490fa84ae90529ae0800000000000000
+      internalID: -1544083079939034988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit  crouch cover
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3543
+        width: 243
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a134f9ba8ccb77c40800000000000000
+      internalID: 5510080239169913626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit cover
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3571
+        width: 259
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25842ea66dc79b510800000000000000
+      internalID: 1565419605846018130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit light arttack_1
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 3585
+        width: 205
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25371e81e2b7db670800000000000000
+      internalID: 8556130304989950802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit light arttack_2
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 3585
+        width: 402
+        height: 505
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2004289cb112b760800000000000000
+      internalID: 7472054233465094188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit light arttack_3
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3585
+        width: 232
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe2c6fba3015370800000000000000
+      internalID: 8309426824589536167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit light arttack_4
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 3585
+        width: 334
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74586f776789678c0800000000000000
+      internalID: -4001843584285899449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit light arttack_5
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 3585
+        width: 242
+        height: 523
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccfd890d873da700800000000000000
+      internalID: 553159408126655681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2944
+        width: 243
+        height: 524
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ac5ebb21afd230800000000000000
+      internalID: 3665825830952280849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2944
+        width: 250
+        height: 524
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef57e00a292a0a80800000000000000
+      internalID: -8499936086327861272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch_3
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2944
+        width: 238
+        height: 505
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10d54df8c72c4390800000000000000
+      internalID: -7832841907707981793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch_4
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2944
+        width: 243
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663bfc3583e207830800000000000000
+      internalID: 4066801282974724966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch_5
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2944
+        width: 224
+        height: 505
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f48931c239c04f0800000000000000
+      internalID: -861151611218014309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch light attack_1
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2924
+        width: 299
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dd37cc87f382cc0800000000000000
+      internalID: -3735666102845055604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch light attack_2
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 2900
+        width: 238
+        height: 390
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29f3ec99337c47e0800000000000000
+      internalID: -1779921061435672278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch light attack_3
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 2926
+        width: 266
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff46b9cc9386af730800000000000000
+      internalID: 4033651013718861055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch light attack_4
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 2926
+        width: 229
+        height: 357
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95aee59743b4a370800000000000000
+      internalID: 8332982330581755290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch light attack_5
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 2926
+        width: 246
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cf73ac77cc88b60800000000000000
+      internalID: 7748667973756779649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit jump
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2276
+        width: 261
+        height: 308
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6303f2038867d28e0800000000000000
+      internalID: -1716585555662262218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch heavy attack_1
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 2262
+        width: 280
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed07292e75e0dad0800000000000000
+      internalID: -2679389448266379794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch heavy attack_2
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 2262
+        width: 273
+        height: 363
+      alignment: 9
+      pivot: {x: 0.5, y: -0.00096700276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caf53c5522a63b30800000000000000
+      internalID: 4266775978324654784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch heavy attack_3
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 2262
+        width: 276
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaf92cbac5359090800000000000000
+      internalID: -8028451615861507419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch heavy attack_4
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 2262
+        width: 290
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09672a3f654fb70800000000000000
+      internalID: 8931859565385257189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit crouch heavy attack_5
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 2262
+        width: 378
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244e997ca03243430800000000000000
+      internalID: 3761670117966603330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit dashR
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1632
+        width: 285
+        height: 522
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b44037392b5f7e0800000000000000
+      internalID: -1732282135294489735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit dashL
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1653
+        width: 308
+        height: 454
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49856071ae9513a80800000000000000
+      internalID: -8488904960673163116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit walk_1
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1639
+        width: 276
+        height: 533
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dcbedead7edede0800000000000000
+      internalID: -1302129789759664777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit walk_2
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1639
+        width: 242
+        height: 538
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ddcef176dd5480800000000000000
+      internalID: -8908728702774422637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit walk_3
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1639
+        width: 251
+        height: 538
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7d2fd867bf0cf00800000000000000
+      internalID: 1135183592703580128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit walk_4
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1639
+        width: 211
+        height: 538
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1004ee6365ee030800000000000000
+      internalID: 3525850352203071973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit walk_5
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1639
+        width: 212
+        height: 538
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58f9dc0ca1af55e0800000000000000
+      internalID: -1918637155914483619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit heavy attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1017
+        width: 255
+        height: 505
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74554815a586d3700800000000000000
+      internalID: 521687868968817991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit heavy attack_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1022
+        width: 260
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12309b714116ffbe0800000000000000
+      internalID: -1441326616810028255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit heavy attack_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1017
+        width: 441
+        height: 482
+      alignment: 9
+      pivot: {x: 0.41641, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b9825c680799500800000000000000
+      internalID: 403477365762071333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit heavy attack_4
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1015
+        width: 238
+        height: 498
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e2770d4dfb28830800000000000000
+      internalID: 4072027933847793205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miftah ra 8bit heavy attack_5
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 999
+        width: 234
+        height: 532
+      alignment: 9
+      pivot: {x: 0.78083056, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa31448ad1cbe60800000000000000
+      internalID: 7979285248327527118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

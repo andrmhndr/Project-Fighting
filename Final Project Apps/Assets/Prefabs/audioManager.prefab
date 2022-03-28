@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6143630047539772916
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6318980793973892120}
+  - component: {fileID: 4476578400461353979}
+  m_Layer: 0
+  m_Name: audioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6318980793973892120
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6143630047539772916}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 980.8893, y: 562.49335, z: -30.066292}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4476578400461353979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6143630047539772916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccd8739e9a1d34642a638377468c7b3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: budiHit
+    clip: {fileID: 8300000, guid: cc8feba688c11424590718ce725045f4, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: budiHeavyAttack
+    clip: {fileID: 8300000, guid: 5e259195fc5c2e54b914723890d80f5b, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: budiLightAttack
+    clip: {fileID: 8300000, guid: dbd8047d62da0af46a6ca1e435c6485e, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: budiDash
+    clip: {fileID: 8300000, guid: 38daeba8eee4e554983ce1ee0eea97c0, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: miftahHeavyAttack
+    clip: {fileID: 8300000, guid: ff861761f88a35840b72b50d80074886, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: miftahLightAttack
+    clip: {fileID: 8300000, guid: 8ad8748081bb8654c80de41e3e6dbb9c, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: miftahCover
+    clip: {fileID: 8300000, guid: d1fdb1d4fc9b0be4c9dc10cd513de76a, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: miftahHit
+    clip: {fileID: 8300000, guid: 388a1543a79a7bf44a00a9c393a5b390, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: theoCover
+    clip: {fileID: 8300000, guid: 2aa4a59fa8371064cbdfa24dcf86e450, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: theoHeavyAttack
+    clip: {fileID: 8300000, guid: e1c812a64dc568a4fabbd174fc4c9757, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: theoHit
+    clip: {fileID: 8300000, guid: 58c43a2046805da40a09c4d0748043b2, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: theoLightAttack
+    clip: {fileID: 8300000, guid: a77a9a459e449d74f876759324261880, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: hit
+    clip: {fileID: 8300000, guid: f15f3a1998b0e784e9333bfc86fefd29, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: choose
+    clip: {fileID: 8300000, guid: 4b5c9362664fc704aa0c9a3722019216, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
